@@ -1,2 +1,3 @@
-# js-basic
-Created with CodeSandbox
+# ToDoApp
+
+JS で簡単な TODO アプリを作成
